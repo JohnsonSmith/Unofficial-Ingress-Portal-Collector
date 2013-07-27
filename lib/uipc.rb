@@ -8,7 +8,7 @@ module UnofficialIngressTool
     def initialize
     end # initialize
 
-    def hello(text)
+    def hello(text = 'world')
       "hello #{text}"
     end # hello
 
