@@ -1,0 +1,6 @@
+# ignore some old sample data
+0-temporary/*
+
+# ingnore non-sample config file
+uipc-config.yml
+uipc-config.rb
